@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgb(97, 18, 18);
+}
+
+header img {
+    padding: 0 250px;
+    width: 250px;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+h2 {
+color: rgb(97, 18, 18);
+}
+
+h1{
+    color: rgb(97, 18, 18);
+}
